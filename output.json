@@ -1,0 +1,36 @@
+{
+    "uri_uri_imgs": "http://188.120.255.185/static/1906ad2f-582b-489f-88e7-c218a9da4ee3",
+    "count_research": 3,
+    "researches": [
+        {
+            "misc_data": {},
+            "_id": "6550812551e6c231efd7767b",
+            "int_id": 21,
+            "created": 1699763957.023,
+            "patient_id": 26,
+            "type": "img",
+            "filename": "18e61e60-fdd8-4f51-8e0e-a0b6c63d6f28.JPG",
+            "user_id": 3
+        },
+        {
+            "misc_data": {},
+            "_id": "6550ae7a51e6c231efd7767f",
+            "int_id": 25,
+            "created": 1699775562.005,
+            "patient_id": 35,
+            "type": "img",
+            "filename": "1773163b-a762-475c-9660-fd9f1ead9c7b.jpg",
+            "user_id": 3
+        },
+        {
+            "misc_data": {},
+            "_id": "655462aabc7e17e87b558aa3",
+            "int_id": 27,
+            "created": 1700018298.619,
+            "patient_id": 41,
+            "type": "file",
+            "filename": "4dcf60f5-429f-4f14-8c32-f9fc254d1cc1.vdx",
+            "user_id": 4
+        }
+    ]
+}
