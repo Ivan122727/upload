@@ -1,7 +1,17 @@
 {
-    "uri_uri_imgs": "http://188.120.255.185/static/1906ad2f-582b-489f-88e7-c218a9da4ee3",
-    "count_research": 3,
+    "uri_uri_imgs": "http://188.120.255.185/static/e955f43b-d8c8-4ad1-804e-917b8ebc8df0",
+    "count_research": 4,
     "researches": [
+        {
+            "misc_data": {},
+            "_id": "654ffb5d51e6c231efd77676",
+            "int_id": 17,
+            "created": 1699729709.43,
+            "patient_id": 21,
+            "type": "img",
+            "filename": "04668f43-a127-404e-8104-61665e3edc6f.jpg",
+            "user_id": 3
+        },
         {
             "misc_data": {},
             "_id": "6550812551e6c231efd7767b",

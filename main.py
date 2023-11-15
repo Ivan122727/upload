@@ -1,5 +1,4 @@
 from datetime import datetime, timezone, timedelta
-import os
 import requests
 import json
 
